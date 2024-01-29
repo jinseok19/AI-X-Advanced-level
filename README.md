@@ -17,13 +17,32 @@
 
   ✅ Detection Module<br/>
   ✅ Web<br/>
-  ✅ Thesis<br/>
+  ✅ Paper<br/>
   ✅ Patent<br/>
   
 
 # Schedule
 <img width="677" alt="image" src="https://github.com/jinseok19/Advanced_Level_Project_for_AI-X/assets/121952875/d8db4479-796e-43c3-9b34-af94ad308aef">
 <img width="509" alt="image" src="https://github.com/jinseok19/Advanced_Level_Project_for_AI-X/assets/121952875/78e49ab6-ccae-4148-a800-c060cd992cf0">
+
+# The Results Of An Interim Presentation
+<img width="270" alt="image" src="https://github.com/jinseok19/Advanced_Level_Project_for_AI-X/assets/121952875/1283e6f5-5d56-4257-a916-046fb091ebb2">
+
+
+# The Results Of The Final Presentation
+<img width="107" alt="image" src="https://github.com/jinseok19/Advanced_Level_Project_for_AI-X/assets/121952875/a074e4f5-cc62-4881-a9dd-3d5ff5b261bb">
+
+# 🎯 Grade : A+
+
+# Patent
+<img width="300" alt="image" src="https://github.com/jinseok19/Advanced_Level_Project_for_AI-X/assets/121952875/e7f765ec-938b-4db5-b463-df5406399c49">
+
+# Conclusion
+이번 학기에 수강한 AI+X 선도 인재 양성 고급 프로젝트는
+### 📒NOTION LINK📒
+
+-------------------------------------------------------------------------------------------------------
+최종 업데이트: 2024년 1월 29일
 
 
 
